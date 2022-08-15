@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"  tyle="display:flex" >
+<div align="center"  display= "flex" flex-wrap="nowrap";>
   <a href="https://github.com/helysonsantiago">
   <img height="167em"  src="https://github-readme-stats.vercel.app/api?username=helysonsantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helysonsantiago&layout=compact&langs_count=7&theme=dark"/>
