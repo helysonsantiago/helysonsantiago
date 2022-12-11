@@ -11,7 +11,7 @@ void main(){
 
    setlocale(LC_ALL, "Portuguese");
    
-   char nome[] = "Helyson Santiago Freitas";
+   char nome[] = "Helyson Santiago";
    char funcao[]= "Estudante de Engenharia da Computação";
    int  idade = 22;
    char local[]= "Zona Sul/SP";
