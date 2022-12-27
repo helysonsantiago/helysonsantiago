@@ -1,30 +1,5 @@
-### BEM-VINDO 🤘🏻🪐
+#As resposas apontam para as estrelas.
 
-
-```c
-#!/usr/bin/c
-#include <stdio.h>
-#include <string.h>
-#include <locale.h>
-
-void main(){
-
-   setlocale(LC_ALL, "Portuguese");
-   
-   char nome[] = "Helyson Santiago";
-   char funcao[]= "Estudante de Engenharia da Computação";
-   int  idade = 22;
-   char local[]= "Zona Sul/SP";
-   char frase[] = "As respostas apontam para as estrelas.";
-   
-      printf("%s\n", nome);
-      printf("%s\n", funcao);
-      printf("%i\n", idade);
-      printf("%s\n", local);
-      printf("%s\n", frase);
-}
-
-```
 ## ⚡🪛 Tecnologias e Ferramentas
 ![VUEJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
