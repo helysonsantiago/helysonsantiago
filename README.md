@@ -1,6 +1,4 @@
 # As respostas apontam para as estrelas.
-
-## ⚡🪛 Tecnologias e Ferramentas
 ![VUEJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=Vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
